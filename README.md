@@ -1,1 +1,2 @@
-# Board-of-directors
+# Board Of Directors
+The [board of directors](https://boardroompulse.com/) is responsible for governance, oversight, and major decision-making, representing the interests of shareholders or stakeholders. The board of directors is not above the CEO because they are elected by the shareholders. The CEO is responsible for the day-to-day operations of the company and reports to the board of directors. The board of directors has the authority to hire and Fired CEOs, but they cannot tell the CEO what to do on a daily basis. 
